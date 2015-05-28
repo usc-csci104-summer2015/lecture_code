@@ -38,7 +38,7 @@ int main()
 {
   B1 w;
   cout << endl;
-  B1 x("EE355");
+  B1 x("CS104");
   cout << endl;
   B2 y;
   cout << endl;
