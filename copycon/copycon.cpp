@@ -26,8 +26,9 @@ MyArray::MyArray(int d[], int num)
 
 MyArray::~MyArray()
 {
-  cout << "In destructor" << endl;
-  delete [] dat;
+  // Add me back in
+  //cout << "In destructor" << endl;
+  //delete [] dat;
 }
 void printVals(MyArray arr)
 {
